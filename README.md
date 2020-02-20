@@ -18,7 +18,7 @@ KDKBot was designed to be an everything bot for the world of Twitch! Offering fe
 KDKBot is primarily developed using Eclipse IDE
 
 # NodeJS & NPM
-KDKBot uses [NPM] from [NodeJS] for building assets and managing code styles. For package descriptions, see [NPM.md]
+KDKBot uses [NPM] from [NodeJS] for building assets and managing code styles. For package descriptions, see [NPM.md](docs/NPM.md)
 
 # Versioning
 Kdkbot uses the Semver versioning guide as a basis for indicating the bot's version number.
