@@ -1,1 +1,8 @@
+# Eclipse Compiled Location
 /bin/
+
+# Sensitive Documents
+.env
+
+# NPM Modules
+node_modules/
