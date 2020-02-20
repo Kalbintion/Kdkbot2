@@ -1,8 +1,12 @@
 # Eclipse Compiled Location
 /bin/
 
+# NPM Modules
+node_modules/
+npm-debug.log*
+
 # Sensitive Documents
 .env
 
-# NPM Modules
-node_modules/
+# Building
+/web/prod
